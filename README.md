@@ -1,10 +1,10 @@
 # Hotel-Management-System-MIS
 ##Project objective: 
 -**Objective:**
-Develop an efficient Management Information System for tracking and managing business operations. Create dashboards and reports to provide key insights into operational performance. Implement data storage, retrieval, and processing for better decision-making.
+Develop an efficient Management Information System for tracking and managing business operations. Create dashboards and reports to provide key insights into operational performance. Implement data storage, retrieval, and processing for better decision-making._
 
 **1.**Purpose of MIS:
-To empower business leaders with real-time, accurate data, enabling informed decision-making for the organization.
+To empower business leaders with real-time, accurate data, enabling informed decision-making for the organization._
 
 Importance of MIS:
 Helps streamline operations, monitor performance, and align business activities with strategic goals.
