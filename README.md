@@ -1,5 +1,5 @@
 # Hotel-Management-System-MIS
-Project Overview:
+- **Project objective:** 
 Objective:
 Develop an efficient Management Information System for tracking and managing business operations. Create dashboards and reports to provide key insights into operational performance. Implement data storage, retrieval, and processing for better decision-making.
 
