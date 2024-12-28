@@ -1,10 +1,8 @@
 # Hotel-Management-System-MIS
 Project Overview:
 Objective:
+Develop an efficient Management Information System for tracking and managing business operations. Create dashboards and reports to provide key insights into operational performance. Implement data storage, retrieval, and processing for better decision-making.
 
-Develop an efficient Management Information System for tracking and managing business operations.
-Create dashboards and reports to provide key insights into operational performance.
-Implement data storage, retrieval, and processing for better decision-making.
 Purpose of MIS:
 To empower business leaders with real-time, accurate data, enabling informed decision-making for the organization.
 
@@ -16,10 +14,8 @@ MIS helps in tracking sales, inventory, and financial performance. It can also b
 
 System Design:
 Project Objective:
+Develop a user-friendly dashboard for monitoring key business metrics. Build reports that detail sales, financial data, employee performance, and customer feedback. Implement data analysis using statistical methods to predict trends and recommend actions.
 
-Develop a user-friendly dashboard for monitoring key business metrics.
-Build reports that detail sales, financial data, employee performance, and customer feedback.
-Implement data analysis using statistical methods to predict trends and recommend actions.
 Purpose of MIS in System Design:
 Provide a unified platform for accessing real-time and historical data, aiding operational efficiency and organizational alignment.
 
@@ -71,4 +67,4 @@ Dashboards allow for continuous monitoring of operational metrics.
 Forecasting:
 Historical data allows for accurate trend prediction and informed future planning.
 
-Let me know if any further adjustments are needed!
+Let me know if this fits your needs or if further adjustments are required!
